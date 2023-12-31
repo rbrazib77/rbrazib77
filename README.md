@@ -75,7 +75,7 @@ I’m Rzib Hossain Passionate at web development. I’m working minimum of 13-14
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="30" height="30"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
 </p>
 
-<h3 align="left">📚Frontend Farmwork & library:</h3>
+<h2 align="left">📚Frontend Farmwork & library:</h2>
 <p align="left">
     <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/>
@@ -97,13 +97,13 @@ I’m Rzib Hossain Passionate at web development. I’m working minimum of 13-14
     </a> 
 </p>
 
-<h3 align="left">🛢Database:</h3>
+<h2 align="left">🛢Database:</h2>
 <p align="left">
    <a href="https://mongodb.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="20" height="20"/>
    </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/>
    </a>
 </p>
 
