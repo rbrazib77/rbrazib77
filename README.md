@@ -7,6 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rbrazib&label=Profile%20views&color=0e75b6&style=flat" alt="rbrazib" /> </p>
 
+<h2>🧑‍💻About Us:</h2>
 
 I'm a Freelancer Full Stack Developer with over 2 years of experience.
 I’m Rzib Hossain Passionate at web development. I’m working minimum of 13-14 hours every day, I love to do this it’s my life-everything. My goal is to satisfy clients, try to understand what they want for there website, help them from beginning to end the project and give support for every problem. If need I communicate by video or audio conversations to understand the problems and project requirements. Skilled in developing web applications using PHP and the Laravel framework. Adept at utilizing front-end technologies such as HTML, CSS, and JavaScript, React JS to create user-friendly and interactive websites. Possess a strong understanding of database design and management, with experience in MySQL. Strong problem-solving skills and the ability to learn new technologies quickly.Check out my Portfolio
