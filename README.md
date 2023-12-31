@@ -68,12 +68,22 @@ I’m Rzib Hossain Passionate at web development. I’m working minimum of 13-14
  </a> 
 </p>
 <h2 align="left">💻Program Languages:</h2>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="30" height="30"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="30" height="30"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="30" height="30"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+<p align="left">
+      <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
+       </a>
+      <a href="https://www.php.net/" target="_blank" rel="noreferrer"> 
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="30" height="30"/>
+      </a>
+      <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="30" height="30"/> 
+    </a>
+      <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> 
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/>
+      </a>
+      <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="30" height="30"/>
+      </a>
 </p>
 
 <h2 align="left">📚Frontend Farmwork & library:</h2>
@@ -101,10 +111,10 @@ I’m Rzib Hossain Passionate at web development. I’m working minimum of 13-14
 <h2 align="left">🛢Database:</h2>
 <p align="left">
    <a href="https://mongodb.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="20" height="20"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="20"/>
    </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="20"/>
    </a>
 </p>
 
