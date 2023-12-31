@@ -111,16 +111,16 @@ I’m Rzib Hossain Passionate at web development. I’m working minimum of 13-14
 <h2 align="left">🧰Tools:</h2>
 <p align="left">
  <a href="https://git-scm.com/" target="_blank" > 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="20"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>
  </a>
  <a href="https://www.postman.com/" target="_blank"> 
-   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="20" height="20"/>
+   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/>
  </a>
  <a href="https://www.figma.com/" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="20" height="20"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/>
  </a>
  <a href=" https://www.w3schools.com/" target="_blank" rel="noreferrer"> 
-   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="20" height="20"/> 
+   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="30" height="30"/> 
   </a> 
 </p>
 
