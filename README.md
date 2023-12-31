@@ -111,10 +111,10 @@ I’m Rzib Hossain Passionate at web development. I’m working minimum of 13-14
 <h2 align="left">🛢Database:</h2>
 <p align="left">
    <a href="https://mongodb.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="20"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/>
    </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="20"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/>
    </a>
 </p>
 
@@ -133,6 +133,8 @@ I’m Rzib Hossain Passionate at web development. I’m working minimum of 13-14
    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="30" height="30"/> 
   </a> 
 </p>
+
+<h2 align="center">Thanks:</h2>
 
 
 
