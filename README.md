@@ -107,7 +107,7 @@ I’m Rzib Hossain Passionate at web development. I’m working minimum of 13-14
    </a>
 </p>
 
-<h3 align="left">🧰Tools:</h3>
+<h2 align="left">🧰Tools:</h2>
 <p align="left">
  <a href="https://git-scm.com/" target="_blank" > 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="20"/>
