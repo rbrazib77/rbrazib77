@@ -67,10 +67,7 @@ I’m Rzib Hossain Passionate at web development. I’m working minimum of 13-14
  </a> 
 </p>
 <br />
-<br/>
-
 <h3 align="left">💻Program Languages:</h3>
-
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="30" height="30"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> 
