@@ -48,7 +48,7 @@ I’m Rzib Hossain Passionate at web development. I’m working minimum of 13-14
 ✅Express JS
 ✅Mongoose
 </p>
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
   <a href="https://www.facebook.com/rbrazib77" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="rbrazib77"  />
@@ -66,7 +66,7 @@ I’m Rzib Hossain Passionate at web development. I’m working minimum of 13-14
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="rbrazib77" />
  </a> 
 </p>
-<h3 align="left">💻Program Languages:</h3>
+<h2 align="left">💻Program Languages:</h2>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="20" height="20"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> 
