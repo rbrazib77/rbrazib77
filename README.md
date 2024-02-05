@@ -1,25 +1,5 @@
-### Hi there 👋, my name is Arturs
-#### I am GitHub Readme Generator's creator
+
 ![I am GitHub Readme Generator's creator](https://pbs.twimg.com/profile_banners/1428590936058068992/1703977840/1080x360)
-
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
-Skills: VUE JS / REACT / JS / HTML / CSS
-
-- 🔭 I’m currently working on this page. 
-
-
-
-
-
-
-
-
-
-
-
-![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/D5616AQHfuj_xfXVD8w/profile-displaybackgroundimage-shrink_350_1400/0/1703974433582?e=1712793600&v=beta&t=KWrcurQyS8Opn13nLtx1o1D_GZpig0EgCr56JwW3XYw)
-
 <h2>Hello I'am Razib Hossain 👋</h2>
 <p>
 🧑‍💻I am Web Developer <br>
