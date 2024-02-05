@@ -1,3 +1,22 @@
+
+### Hi there 👋, my name is Arturs
+#### I am GitHub Readme Generator's creator
+![I am GitHub Readme Generator's creator](https://scontent.fdac138-2.fna.fbcdn.net/v/t39.30808-6/412541961_1799618907117885_6720828425134079907_n.png?_nc_cat=106&ccb=1-7&_nc_sid=783fdb&_nc_ohc=RzB5SiRxYnMAX9agzcA&_nc_ht=scontent.fdac138-2.fna&oh=00_AfAK-YCvOnWCDuRoJL7-nVJR_XgPy95QJj_077VYGyYqHg&oe=65C5AD4A)
+
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
+Skills: VUE JS / REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
+
+
+
+
 !(https://scontent.fdac138-2.fna.fbcdn.net/v/t39.30808-6/412541961_1799618907117885_6720828425134079907_n.png?_nc_cat=106&ccb=1-7&_nc_sid=783fdb&_nc_ohc=RzB5SiRxYnMAX9agzcA&_nc_ht=scontent.fdac138-2.fna&oh=00_AfAK-YCvOnWCDuRoJL7-nVJR_XgPy95QJj_077VYGyYqHg&oe=65C5AD4A)
 
 <h2>Hello I'am Razib Hossain 👋</h2>
